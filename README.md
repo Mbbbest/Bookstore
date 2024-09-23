@@ -10,7 +10,7 @@
     3. Get Book
 
 ## Installation
-    git clone https://github.com/Megabyte-webdev/bookstore-contract.git
+    git clone https://github.com/Mbbbest/Bookstore/
 
     install scarb, starknet-foundry, universal sierra compiler.
 
